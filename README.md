@@ -17,3 +17,4 @@ Help the Politburo reconquer their lost territory, and establish this great nati
 [SmolEngines](https://github.com/Arachi-Lover/SmolEngines)
 [PirateVariantsHPFix](https://github.com/Arachi-Lover/PirateVariantsHPFix)
 [Glory to the CCOR](https://github.com/Arachi-Lover/Glory-to-the-CCOR)
+[galactic_layers_POC](https://github.com/Arachi-Lover/galactic_layers_POC)
